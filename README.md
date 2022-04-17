@@ -1,1 +1,1 @@
-# MVVMFrame
+# MVVMFrame: Kotlin Coroutine + ViewModel + LifeCycle + Retrofit + Dagger2 + Gson
